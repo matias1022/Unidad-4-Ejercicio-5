@@ -1,0 +1,25 @@
+{
+    "__class__": "ManejadorPacientes",
+    "pacientes": [
+        {
+            "__class__": "Paciente",
+            "__atributos__": {
+                "apellido": "Caballero",
+                "nombre": "German",
+                "tel": "(264)5851661",
+                "altura": "170",
+                "peso": "65"
+            }
+        },
+        {
+            "__class__": "Paciente",
+            "__atributos__": {
+                "apellido": "Messi",
+                "nombre": "Lionel",
+                "tel": "(011)5101512",
+                "altura": "170",
+                "peso": "50"
+            }
+        }
+    ]
+}
